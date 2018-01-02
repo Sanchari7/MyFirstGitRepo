@@ -1,3 +1,7 @@
 Welcome to GIT demo
 
 Happy New Year
+
+change 2
+
+change 3
